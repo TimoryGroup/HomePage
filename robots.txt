@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /blog/wp-admin/
+Sitemap: https://www.mcshiyi.com/sitemap.xml
+Sitemap: https://www.mcshiyi.com/sitemap.html
+Sitemap: https://www.mcshiyi.com/blog/sitemap_index.xml
